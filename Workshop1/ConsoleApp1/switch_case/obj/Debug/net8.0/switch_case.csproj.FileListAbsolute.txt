@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\bin\Debug\net8.0\switch_case.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\bin\Debug\net8.0\switch_case.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\bin\Debug\net8.0\switch_case.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\bin\Debug\net8.0\switch_case.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\bin\Debug\net8.0\switch_case.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\refint\switch_case.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\switch_case.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\switch_case\obj\Debug\net8.0\ref\switch_case.dll

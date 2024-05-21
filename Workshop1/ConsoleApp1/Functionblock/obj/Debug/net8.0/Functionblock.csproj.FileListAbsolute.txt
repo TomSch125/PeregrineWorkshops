@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\bin\Debug\net8.0\Functionblock.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\bin\Debug\net8.0\Functionblock.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\bin\Debug\net8.0\Functionblock.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\bin\Debug\net8.0\Functionblock.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\bin\Debug\net8.0\Functionblock.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\refint\Functionblock.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\Functionblock.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop1\ConsoleApp1\Functionblock\obj\Debug\net8.0\ref\Functionblock.dll

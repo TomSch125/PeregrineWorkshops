@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\Workshop1\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7547525A-99B6-4128-9226-324F396C11DA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tomschofield\\peregrine\\coding\\workshop1\\consoleapp1\\consoleapp1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7547525A-99B6-4128-9226-324F396C11DA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop1\\consoleapp1\\consoleapp1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7547525A-99B6-4128-9226-324F396C11DA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7547525A-99B6-4128-9226-324F396C11DA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tomschofield\\peregrine\\coding\\workshop1\\consoleapp1\\consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7547525A-99B6-4128-9226-324F396C11DA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop1\\consoleapp1\\consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7547525A-99B6-4128-9226-324F396C11DA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Class1.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
-              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Class1.cs",
               "RelativeToolTip": "ConsoleApp1\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:49:46.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T12:49:46.677Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Arithmetic.cs",
-              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Arithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Arithmetic.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Arithmetic.cs",
-              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Arithmetic.cs",
-              "RelativeToolTip": "ConsoleApp1\\Arithmetic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop1\\ConsoleApp1\\ConsoleApp1\\Arithmetic.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Arithmetic.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T12:24:02.27Z",
               "EditorCaption": ""
