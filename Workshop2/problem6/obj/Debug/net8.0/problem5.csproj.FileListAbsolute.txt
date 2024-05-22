@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\bin\Debug\net8.0\problem5.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\bin\Debug\net8.0\problem5.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\bin\Debug\net8.0\problem5.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\bin\Debug\net8.0\problem5.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\bin\Debug\net8.0\problem5.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\refint\problem5.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\problem5.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem6\obj\Debug\net8.0\ref\problem5.dll

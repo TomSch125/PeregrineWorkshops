@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\bin\Debug\net8.0\problem_palindrome.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\bin\Debug\net8.0\problem_palindrome.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\bin\Debug\net8.0\problem_palindrome.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\bin\Debug\net8.0\problem_palindrome.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\bin\Debug\net8.0\problem_palindrome.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\refint\problem_palindrome.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\problem_palindrome.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop2\problem_palindrome\obj\Debug\net8.0\ref\problem_palindrome.dll

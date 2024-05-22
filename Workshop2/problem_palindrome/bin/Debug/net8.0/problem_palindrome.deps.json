@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "problem_palindrome/1.0.0": {
+        "runtime": {
+          "problem_palindrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "problem_palindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

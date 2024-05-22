@@ -3,16 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADCA8542-E59A-450E-9175-DCFA49174877}|..\\problem4\\problem4.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEF08525-866C-4C1A-BA28-8ABC662A4DED}|..\\problem9\\problem9.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA0D933-5669-4BC0-B2FA-2EDA80E2DEA7}|..\\problem8\\problem8.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F44A1997-80D5-4AA1-862F-3C7CFA7D95AF}|..\\problem2\\problem2.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32D39730-280B-44AE-9E09-11AB8DF56E83}|..\\problem10\\problem10.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E7A289-2C2B-41DD-94CA-B74A2AF74FEB}|..\\problem7\\problem7.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04FD2AA9-D61D-41F1-9EC6-12F1DEB2620B}|..\\problem3\\problem3.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ADCA8542-E59A-450E-9175-DCFA49174877}|..\\problem4\\problem4.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADCA8542-E59A-450E-9175-DCFA49174877}|..\\problem4\\problem4.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem4\\problem4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F200D340-6900-4421-B2B6-7D03AA0400B4}|..\\problem6\\problem5.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044E1454-B8DD-4E50-BE4B-ACC940EBDABB}|..\\problem_palindrome\\problem_palindrome.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem_palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4406D908-04D9-49ED-B918-3ECAFD6215B5}|problems1.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop2\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,6 +53,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\problem10\\Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem10\\Program.cs",
+              "RelativeToolTip": "..\\problem10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:04:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\problem9\\Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem9\\Program.cs",
+              "RelativeToolTip": "..\\problem9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:54:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\problem8\\Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem8\\Program.cs",
+              "RelativeToolTip": "..\\problem8\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:22:18.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\problem7\\Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem7\\Program.cs",
+              "RelativeToolTip": "..\\problem7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:02:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem_palindrome\\Program.cs",
+              "RelativeDocumentMoniker": "..\\problem_palindrome\\Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem_palindrome\\Program.cs",
+              "RelativeToolTip": "..\\problem_palindrome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:55:42.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\problem6\\Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem6\\Program.cs",
+              "RelativeToolTip": "..\\problem6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:47:58.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "problem4.csproj",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem4\\problem4.csproj",
               "RelativeDocumentMoniker": "..\\problem4\\problem4.csproj",
@@ -42,24 +138,25 @@
               "RelativeToolTip": "..\\problem4\\problem4.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-22T09:39:19.575Z"
+              "WhenOpened": "2024-05-22T09:39:19.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem4\\Program.cs",
               "RelativeDocumentMoniker": "..\\problem4\\Program.cs",
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem4\\Program.cs",
               "RelativeToolTip": "..\\problem4\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T09:39:10.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem3\\Program.cs",
               "RelativeDocumentMoniker": "..\\problem3\\Program.cs",
@@ -67,23 +164,25 @@
               "RelativeToolTip": "..\\problem3\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:31:34.78Z"
+              "WhenOpened": "2024-05-22T09:31:34.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem2\\Program.cs",
               "RelativeDocumentMoniker": "..\\problem2\\Program.cs",
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem2\\Program.cs",
               "RelativeToolTip": "..\\problem2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:09:59.015Z"
+              "WhenOpened": "2024-05-22T09:09:59.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop2\\problem1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -91,7 +190,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:54:45.658Z"
+              "WhenOpened": "2024-05-22T08:54:45.658Z",
+              "EditorCaption": ""
             }
           ]
         }
