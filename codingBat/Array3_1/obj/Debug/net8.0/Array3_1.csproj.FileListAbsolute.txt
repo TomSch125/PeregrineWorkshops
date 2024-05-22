@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\bin\Debug\net8.0\Array3_1.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\bin\Debug\net8.0\Array3_1.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\bin\Debug\net8.0\Array3_1.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\bin\Debug\net8.0\Array3_1.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\bin\Debug\net8.0\Array3_1.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\refint\Array3_1.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\Array3_1.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\Array3_1\obj\Debug\net8.0\ref\Array3_1.dll

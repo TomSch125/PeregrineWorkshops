@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\bin\Debug\net8.0\String3_3.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\bin\Debug\net8.0\String3_3.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\bin\Debug\net8.0\String3_3.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\bin\Debug\net8.0\String3_3.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\bin\Debug\net8.0\String3_3.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\refint\String3_3.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\String3_3.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\codingBat\String3_3\obj\Debug\net8.0\ref\String3_3.dll
