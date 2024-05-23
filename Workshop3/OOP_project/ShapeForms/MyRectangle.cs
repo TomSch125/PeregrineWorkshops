@@ -22,7 +22,7 @@ namespace Shapes
         public override double area()
         {
             double half = base.area();
-            return Math.Round(half * 2, 3); // some data is lost when doing the caluclations, double probably inst large enough
+            return Math.Round(half * 2, 7); // some data is lost when doing the caluclations, double probably inst large enough
         }
 
 

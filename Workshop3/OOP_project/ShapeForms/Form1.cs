@@ -57,6 +57,8 @@ namespace ShapeForms
                 hideAll();
             }
 
+            hideOuts();
+
         }
 
         private void hideAllInputs() { 
@@ -64,8 +66,11 @@ namespace ShapeForms
             lblB.Hide();
             lblC.Hide();
             spinA.Hide();
-            spinB.Hide();   
+            spinA.Value = 0;
+            spinB.Hide();
+            spinB.Value = 0;
             spinC.Hide();
+            spinC.Value = 0;
         }
 
         private void hideAll() {
@@ -79,6 +84,12 @@ namespace ShapeForms
             lblArea.Show();
             lblPerimeter.Show();
         }
+
+        private void hideOuts() {
+            lblArea.Hide();
+            lblPerimeter.Hide();
+        }
+
 
         private void chkCircle_CheckedChanged(object sender, EventArgs e)
         {
@@ -111,41 +122,46 @@ namespace ShapeForms
             if ((chkRectangle.Checked == false) && (chkTraingle.Checked == false) && (chkCircle.Checked == false)) {
                 hideAll();
             }
+
+            hideOuts();
         }
 
         private void btnCalc_Click(object sender, EventArgs e)
         {
+
+            double area = -1;
+            double perimeter = -1;
             if (chkCircle.Checked)
             {
                 int val = (int)spinA.Value;
                 MyCircle c = new MyCircle(val);
-                double area = c.area();
-                double perimeter = c.perimeter();
-                showOutputs();
-                lblArea.Text = "Area: " + area.ToString();
-                lblPerimeter.Text = "Perimeter: " + perimeter.ToString();
+                area = c.area();
+                perimeter = c.perimeter();
+
             }
             if (chkRectangle.Checked)
             {
                 int h = (int)spinA.Value;
                 int w = (int)spinB.Value;
                 MyRectangle r = new MyRectangle(h, w);
-                double area = r.area();
-                double perimeter = r.perimeter();
-                showOutputs();
-                lblArea.Text = "Area: " + area.ToString();
-                lblPerimeter.Text = "Perimeter: " + perimeter.ToString();
+                area = r.area();
+                perimeter = r.perimeter();
+
             }
             if (chkTraingle.Checked) { 
                 int a = (int)spinA.Value;
                 int b = (int)spinB.Value;
                 int c = (int)spinC.Value;
                 MyTriangle t = new MyTriangle(a, b, c);
-                double area = t.area();
-                double perimeter = t.perimeter();
+                area = t.area();
+                perimeter = t.perimeter();
+
+            }
+
+            if (area != -1 && perimeter != -1) {
                 showOutputs();
-                lblArea.Text = "Area: " + area.ToString();
-                lblPerimeter.Text = "Perimeter: " + perimeter.ToString();
+                lblArea.Text = "Area: " + Math.Round(area, 3).ToString();
+                lblPerimeter.Text = "Perimeter: " + Math.Round(perimeter, 3).ToString();
             }
             
 
@@ -190,6 +206,10 @@ namespace ShapeForms
             {
                 hideAll();
             }
+
+            hideOuts();
+
+
         }
 
         private void lblA_Click(object sender, EventArgs e)
