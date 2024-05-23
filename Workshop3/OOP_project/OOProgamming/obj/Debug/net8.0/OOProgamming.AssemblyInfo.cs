@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOProgamming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+968dac6fd18ec68f664099602528fac68ece8f9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28072543c1c5160c7c85cbbe8f0fbe61a5382f41")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOProgamming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOProgamming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

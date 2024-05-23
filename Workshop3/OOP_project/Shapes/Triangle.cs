@@ -22,8 +22,9 @@ namespace Shapes
 
         public virtual double area() {
             double semi = perimeter() / 2;
-            return Math.Sqrt(semi*(semi-a)*(semi-b)*(semi-c));
-            
+            return Math.Sqrt(semi * (semi - a) * (semi - b) * (semi - c));
+
+
         }
         
         public double perimeter() { 
@@ -32,7 +33,7 @@ namespace Shapes
 
         public bool check()
         {
-            if (area() < 0) { 
+            if (area() > 0) { 
                 return true;
             }
 

@@ -1,0 +1,17 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\bin\Debug\net8.0-windows\ShapeForms.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\bin\Debug\net8.0-windows\ShapeForms.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\bin\Debug\net8.0-windows\ShapeForms.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\bin\Debug\net8.0-windows\ShapeForms.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\bin\Debug\net8.0-windows\ShapeForms.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.Form1.resources
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.csproj.GenerateResource.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\refint\ShapeForms.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ShapeForms.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\ShapeForms\obj\Debug\net8.0-windows\ref\ShapeForms.dll
