@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\bin\Debug\net8.0\OOProgamming.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\bin\Debug\net8.0\OOProgamming.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\bin\Debug\net8.0\OOProgamming.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\bin\Debug\net8.0\OOProgamming.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\bin\Debug\net8.0\OOProgamming.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\refint\OOProgamming.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\OOProgamming.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\OOProgamming\obj\Debug\net8.0\ref\OOProgamming.dll

@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\bin\Debug\net8.0\Shapes.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\bin\Debug\net8.0\Shapes.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\bin\Debug\net8.0\Shapes.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\bin\Debug\net8.0\Shapes.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\bin\Debug\net8.0\Shapes.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\refint\Shapes.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\Shapes.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop3\OOP_project\Shapes\obj\Debug\net8.0\ref\Shapes.dll

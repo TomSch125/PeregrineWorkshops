@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F8617-F806-468B-BD94-82C61B959BB5}|..\\Shapes\\Shapes.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F8617-F806-468B-BD94-82C61B959BB5}|..\\Shapes\\Shapes.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F8617-F806-468B-BD94-82C61B959BB5}|..\\Shapes\\Shapes.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F8617-F806-468B-BD94-82C61B959BB5}|..\\Shapes\\Shapes.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\ooprogamming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F8617-F806-468B-BD94-82C61B959BB5}|..\\Shapes\\Shapes.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\ooprogamming\\arithnetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|solutionrelative:arithnetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\ooprogamming\\isubtract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|solutionrelative:isubtract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop3\\oop_project\\ooprogamming\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3B4EE0-D78F-41A8-8F81-63094B9DC115}|OOProgamming.csproj|solutionrelative:multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Circle.cs",
+              "RelativeToolTip": "..\\Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:52:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "..\\Shapes\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:39:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\IShape.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\IShape.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\IShape.cs",
+              "RelativeToolTip": "..\\Shapes\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:36:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "..\\Shapes\\Triangle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:16:54.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\Shapes\\Program.cs",
+              "RelativeToolTip": "..\\Shapes\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwCwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:13:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubtract.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\ISubtract.cs",
+              "RelativeDocumentMoniker": "ISubtract.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\ISubtract.cs",
+              "RelativeToolTip": "ISubtract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:56:29.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Multiplication.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\Multiplication.cs",
+              "RelativeDocumentMoniker": "Multiplication.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\Multiplication.cs",
+              "RelativeToolTip": "Multiplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:53:34.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arithnetic.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\Arithnetic.cs",
+              "RelativeDocumentMoniker": "Arithnetic.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\Arithnetic.cs",
+              "RelativeToolTip": "Arithnetic.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:49:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop3\\OOP_project\\OOProgamming\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:36:58.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
