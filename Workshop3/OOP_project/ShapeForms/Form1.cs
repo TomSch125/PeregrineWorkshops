@@ -24,7 +24,7 @@ namespace ShapeForms
 
         private void chkRectangle_CheckedChanged(object sender, EventArgs e)
         {
-            if (!chkRectangle.Checked)
+            if (!chkRectangle.Checked) // needed or else you uncheck the other boxes, wich casuses them to uncheck all the boxes. 
             {
                 return;
             }
