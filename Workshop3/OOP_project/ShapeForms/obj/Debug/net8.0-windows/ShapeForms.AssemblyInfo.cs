@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShapeForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29d85fae2ed15a2f974b4c8f6c7a9b9b437f9d73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48df67da202d9c084759ecd5d8cb3deca60b0905")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShapeForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShapeForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

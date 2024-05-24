@@ -149,10 +149,16 @@ namespace ShapeForms
 
             }
             if (chkTraingle.Checked) { 
+
                 int a = (int)spinA.Value;
                 int b = (int)spinB.Value;
                 int c = (int)spinC.Value;
                 MyTriangle t = new MyTriangle(a, b, c);
+
+                if (!t.check()) {
+                    return;
+                }
+
                 area = t.area();
                 perimeter = t.perimeter();
 

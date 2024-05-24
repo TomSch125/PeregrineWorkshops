@@ -22,22 +22,40 @@ namespace Shapes
 
         public virtual double area() {
             double semi = perimeter() / 2;
-            return Math.Sqrt(semi * (semi - a) * (semi - b) * (semi - c));
+            double res = Math.Sqrt(semi * (semi - a) * (semi - b) * (semi - c));
+            if (!check())
+            {
+                return -1;
+            }
+            return res;
 
 
         }
         
-        public double perimeter() { 
+        public double perimeter() {
+            if (!check())
+            {
+                return -1;
+            }
             return (a + b + c);
         }
 
         public bool check()
         {
-            if (area() > 0) { 
-                return true;
+            if (a > (b + c))
+            {
+                return false;
+            }
+            if (b > (a + c))
+            {
+                return false;
+            }
+            if (c > (b + a))
+            {
+                return false;
             }
 
-            return false;
+            return true;
         }
 
     }
