@@ -36,16 +36,18 @@ namespace Hangman
             {   
                 printCurrent();
                 Console.WriteLine("\ninput guess:");
-                string input = Console.ReadLine().ToLower();
-                checkTarget(input);
+                string inputS = Console.ReadLine().ToLower();
+                char input = inputS[0];
+                bool found = checkTarget(input);
                 if (!current.Contains('?')) {
                     Console.WriteLine("Word Found !!!!!");
                     return;
                 }
 
-                printHangman();
-
-                guesses++;
+                if (!found) {
+                    printHangman();
+                    guesses++;
+                }
             }
 
             Console.WriteLine("Failed to find the word");
@@ -53,20 +55,18 @@ namespace Hangman
 
         }
 
-        private void checkTarget(string guess)
+        private bool checkTarget(char guess)
         {
-            if (guess.Length > target.Length) {
-                guess = guess.Substring(0, target.Length);
-            }
-
+            bool found = false;
             char[] targetChrs = target.ToCharArray();
-            char[] guessChrs = guess.ToCharArray();
-            for (int i = 0; i < guessChrs.Length; i++) { 
-                if (targetChrs[i] == guessChrs[i]) {
-                    current[i] = guessChrs[i];
+            for (int i = 0; i < target.Length; i++) { 
+                if (targetChrs[i] == guess) {
+                    current[i] = guess;
+                    found = true;
                 }
             }
 
+            return found;
         }
         private void printCurrent()
         {

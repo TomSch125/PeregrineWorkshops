@@ -1,0 +1,17 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\bin\Debug\net8.0-windows\HangmanForm.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\bin\Debug\net8.0-windows\HangmanForm.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\bin\Debug\net8.0-windows\HangmanForm.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\bin\Debug\net8.0-windows\HangmanForm.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\bin\Debug\net8.0-windows\HangmanForm.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.Form1.resources
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.csproj.GenerateResource.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\refint\HangmanForm.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\HangmanForm.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop5\HangmanForm\obj\Debug\net8.0-windows\ref\HangmanForm.dll
