@@ -12,14 +12,17 @@ namespace Hangman
         private String[] Words;
         private string target;
         public int guesses;
-        public List<char> current = new List<char>();
+        private List<char> current = new List<char>();
+        public List<char> used = new List<char>();
+        public bool loss = false;
+
 
         public GameObj( string[] words)
         {
             Words = words;
             Random rnd = new Random();
             this.target = words[rnd.Next(1, words.Length)];
-            this.guesses = 0;
+            this.guesses = -1;
             for (int i = 0; i < target.Length; i++)
             {
                 current.Add('?');
@@ -27,6 +30,10 @@ namespace Hangman
         }
 
         public int nextState(char input) {
+
+            if (used.Contains(input)) {
+                return 1;
+            }
 
             bool found = checkTarget(input);
             if (!current.Contains('?'))
@@ -36,8 +43,10 @@ namespace Hangman
 
             if (!found)
             {
+                used.Add(input);
                 guesses++;
                 if (guesses == 6) {
+                    loss = true;
                     return 3;
                 }
                 return 2;

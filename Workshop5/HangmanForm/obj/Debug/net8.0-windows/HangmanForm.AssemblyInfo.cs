@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HangmanForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f28ae210c839cdc17cdb110bdaf85c7f90d179")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb499f976bc57b75ebf2863c6f2adc287beee27d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HangmanForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HangmanForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
