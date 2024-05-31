@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\bin\Debug\net8.0\SocketServer.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\bin\Debug\net8.0\SocketServer.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\bin\Debug\net8.0\SocketServer.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\bin\Debug\net8.0\SocketServer.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\bin\Debug\net8.0\SocketServer.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\refint\SocketServer.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\SocketServer.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop7Sockets\SocketServer\obj\Debug\net8.0\ref\SocketServer.dll
