@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Myy23C+1btrIsexPB+cVNfg8ki6DK79l5cvXwqWDds+fkgxqQDBnIOIdMcqi6o4aZIbC1H4fXvPS+U8grJaJdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop8JSON\\SerialiseAnObject\\SerialiseAnObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomSchofield\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

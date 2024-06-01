@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseAnObject", "SerialiseAnObject.csproj", "{42883CF3-949B-4F91-9C56-B8368765071F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseCollection", "..\SerialiseCollection\SerialiseCollection.csproj", "{71332833-F6F8-4972-AE18-FC626BA59BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42883CF3-949B-4F91-9C56-B8368765071F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42883CF3-949B-4F91-9C56-B8368765071F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42883CF3-949B-4F91-9C56-B8368765071F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42883CF3-949B-4F91-9C56-B8368765071F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71332833-F6F8-4972-AE18-FC626BA59BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71332833-F6F8-4972-AE18-FC626BA59BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71332833-F6F8-4972-AE18-FC626BA59BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71332833-F6F8-4972-AE18-FC626BA59BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3A645B-62C4-4213-AD4F-C911DD164C01}
+	EndGlobalSection
+EndGlobal
