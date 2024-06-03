@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\bin\Debug\net8.0\EvaluatePostFix.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\bin\Debug\net8.0\EvaluatePostFix.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\bin\Debug\net8.0\EvaluatePostFix.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\bin\Debug\net8.0\EvaluatePostFix.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\bin\Debug\net8.0\EvaluatePostFix.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\refint\EvaluatePostFix.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\EvaluatePostFix.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\EvaluatePostFix\obj\Debug\net8.0\ref\EvaluatePostFix.dll

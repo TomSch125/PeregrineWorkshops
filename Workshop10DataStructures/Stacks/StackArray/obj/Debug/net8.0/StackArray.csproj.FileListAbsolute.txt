@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\bin\Debug\net8.0\StackArray.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\bin\Debug\net8.0\StackArray.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\bin\Debug\net8.0\StackArray.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\bin\Debug\net8.0\StackArray.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\bin\Debug\net8.0\StackArray.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\refint\StackArray.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\StackArray.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\StackArray\obj\Debug\net8.0\ref\StackArray.dll

@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\bin\Debug\net8.0\BracketMatching.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\bin\Debug\net8.0\BracketMatching.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\bin\Debug\net8.0\BracketMatching.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\bin\Debug\net8.0\BracketMatching.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\bin\Debug\net8.0\BracketMatching.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\refint\BracketMatching.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\BracketMatching.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\BracketMatching\obj\Debug\net8.0\ref\BracketMatching.dll
