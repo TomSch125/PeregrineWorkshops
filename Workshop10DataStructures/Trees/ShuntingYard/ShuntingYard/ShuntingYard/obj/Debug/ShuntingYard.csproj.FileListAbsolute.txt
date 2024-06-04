@@ -1,0 +1,20 @@
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.exe.config
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.exe
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.pdb
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\bin\Debug\System.ValueTuple.dll
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\bin\Debug\System.ValueTuple.xml
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.csprojAssemblyReference.cache
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.csproj.CoreCompileInputs.cache
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.csproj.CopyComplete
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.exe
+C:\Users\p10441978\source\repos\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.pdb
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.exe.config
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.exe
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.pdb
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\bin\Debug\System.ValueTuple.dll
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\bin\Debug\System.ValueTuple.xml
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.csproj.AssemblyReference.cache
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.csproj.CoreCompileInputs.cache
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.csproj.CopyComplete
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.exe
+C:\Users\customer\Desktop\Data Structure\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.pdb

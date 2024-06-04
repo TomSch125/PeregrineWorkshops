@@ -1,0 +1,14 @@
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\bin\Debug\net7.0\InfixToPostfix.exe
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\bin\Debug\net7.0\InfixToPostfix.deps.json
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\bin\Debug\net7.0\InfixToPostfix.runtimeconfig.json
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\bin\Debug\net7.0\InfixToPostfix.dll
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\bin\Debug\net7.0\InfixToPostfix.pdb
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\InfixToPostfix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\InfixToPostfix.AssemblyInfoInputs.cache
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\InfixToPostfix.AssemblyInfo.cs
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\InfixToPostfix.csproj.CoreCompileInputs.cache
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\InfixToPostfix.dll
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\refint\InfixToPostfix.dll
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\InfixToPostfix.pdb
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\InfixToPostfix.genruntimeconfig.cache
+C:\Users\customer\source\Algorithms\ExpressionTree\InfixToPostfix\obj\Debug\net7.0\ref\InfixToPostfix.dll

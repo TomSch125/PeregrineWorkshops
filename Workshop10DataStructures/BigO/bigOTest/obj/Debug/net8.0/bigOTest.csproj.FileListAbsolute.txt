@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\bin\Debug\net8.0\bigOTest.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\bin\Debug\net8.0\bigOTest.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\bin\Debug\net8.0\bigOTest.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\bin\Debug\net8.0\bigOTest.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\bin\Debug\net8.0\bigOTest.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\refint\bigOTest.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\bigOTest.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\BigO\bigOTest\obj\Debug\net8.0\ref\bigOTest.dll
