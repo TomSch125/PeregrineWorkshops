@@ -17,10 +17,65 @@ namespace InFixToPostFix
             return false;
         }
 
-        //public string convert(string exp) {
-            //Stack<object> s = new Stack<object>();
+        Dictionary<char, int> prios = new Dictionary<char, int>() {
+          {'(',0 },
+          {')',0 },
+          {'+',1},
+          {'-',1 },
+          {'*',2},
+          {'/',2 },
+          {'%',2 },
+          {'^',3 },
+        };
 
+        public string convert(string exp) {
+            Stack<char> ops = new Stack<char>();
+            char[] chars = exp.ToCharArray();
+            string final = "";
+            foreach (char c in chars)
+            {
+                if (isDigit(c))
+                {
+                    final = final + c + " ";
+                }
+                else {
+
+                    if (c == '(')
+                    {
+                        ops.Push(c);
+                    }
+                    else if (c == ')')
+                    {
+                        while (ops.Count() > 0 && ops.Peek() != '(')
+                        {
+                            char removed = ops.Pop();
+                            final = final + removed + " ";
+                        }
+                        if (ops.Count() > 0 && ops.Peek() == '(')
+                        {
+                            ops.Pop();
+                        }
+                    }
+                    else {
+                        while (ops.Count() > 0 && prios[c] <= prios[ops.Peek()])
+                        {
+                            char removed = ops.Pop();
+                            final = final + removed + " ";
+                        }
+                        ops.Push(c);
+                    }
+                
+                }
+
+            }
+            while (ops.Count() > 0)
+            {
+                char removed = ops.Pop();
+                final = final + removed + " ";
+            }
+
+            return final;  
         
-        //}
+        }
     }
 }

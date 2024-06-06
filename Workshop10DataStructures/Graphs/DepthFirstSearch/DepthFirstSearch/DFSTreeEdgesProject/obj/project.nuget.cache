@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RciGApr/sl0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Graphs\\DepthFirstSearch\\DepthFirstSearch\\DFSTreeEdgesProject\\DFSTreeEdgesProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomSchofield\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\TomSchofield\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\TomSchofield\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\TomSchofield\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

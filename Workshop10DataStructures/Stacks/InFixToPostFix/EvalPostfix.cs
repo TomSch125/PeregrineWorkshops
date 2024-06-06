@@ -22,6 +22,8 @@ namespace EvaluatePostFix
 
                 case '-':
                     return op1 - op2;
+                case '^':
+                    return (int)Math.Pow(op1, op2);
             }
 
             return 0;
@@ -45,7 +47,7 @@ namespace EvaluatePostFix
                 {
                     continue;
                 }
-                else if (arr[i] == '*' || arr[i] == '/' || arr[i] == '+' || arr[i] == '-') {
+                else if (arr[i] == '*' || arr[i] == '/' || arr[i] == '+' || arr[i] == '-' || arr[i] == '^') {
                     op2 = Convert.ToInt32(st.Pop());
                     op1 =Convert.ToInt32(st.Pop());
                     st.Push(operation(arr[i], op1, op2));

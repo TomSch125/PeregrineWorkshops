@@ -3,27 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\EvaluatePostFix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{076567F2-1251-4CD9-9D47-3AF45F7EE423}|..\\BracketMatching\\BracketMatching.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\bracketmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D5145E-B040-414F-8497-1FDDE2BF2B14}|..\\StackArray\\StackArray.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\stackarray\\stacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D5145E-B040-414F-8497-1FDDE2BF2B14}|..\\StackArray\\StackArray.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\stackarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F9F2FB4-C8EC-42B9-A217-501BB9AECE75}|..\\InFixToPostFix\\InFixToPostFix.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\infixtopostfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F9F2FB4-C8EC-42B9-A217-501BB9AECE75}|..\\InFixToPostFix\\InFixToPostFix.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\infixtopostfix\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5391FB65-680D-40A7-9916-76AB49FF5493}|EvaluatePostFix.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\evaluatepostfix\\evalpostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5391FB65-680D-40A7-9916-76AB49FF5493}|EvaluatePostFix.csproj|solutionrelative:evalpostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F9F2FB4-C8EC-42B9-A217-501BB9AECE75}|..\\InFixToPostFix\\InFixToPostFix.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\infixtopostfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5391FB65-680D-40A7-9916-76AB49FF5493}|EvaluatePostFix.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\evaluatepostfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5391FB65-680D-40A7-9916-76AB49FF5493}|EvaluatePostFix.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F9F2FB4-C8EC-42B9-A217-501BB9AECE75}|..\\InFixToPostFix\\InFixToPostFix.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop10datastructures\\stacks\\infixtopostfix\\evalpostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,93 +27,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\BracketMatching\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BracketMatching\\Program.cs",
-              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\BracketMatching\\Program.cs",
-              "RelativeToolTip": "..\\BracketMatching\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBgAAAAyAAAA",
+              "DocumentIndex": 2,
+              "Title": "EvalPostfix.cs",
+              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\InFixToPostFix\\EvalPostfix.cs",
+              "RelativeDocumentMoniker": "..\\InFixToPostFix\\EvalPostfix.cs",
+              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\InFixToPostFix\\EvalPostfix.cs",
+              "RelativeToolTip": "..\\InFixToPostFix\\EvalPostfix.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAnwCcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:16:50.617Z",
+              "WhenOpened": "2024-06-04T14:43:19.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StackA.cs",
-              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\StackArray\\StackA.cs",
-              "RelativeDocumentMoniker": "..\\StackArray\\StackA.cs",
-              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\StackArray\\StackA.cs",
-              "RelativeToolTip": "..\\StackArray\\StackA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:28:57.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\StackArray\\Program.cs",
-              "RelativeDocumentMoniker": "..\\StackArray\\Program.cs",
-              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\StackArray\\Program.cs",
-              "RelativeToolTip": "..\\StackArray\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwD0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:17:38.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Converter.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\InFixToPostFix\\Converter.cs",
               "RelativeDocumentMoniker": "..\\InFixToPostFix\\Converter.cs",
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\InFixToPostFix\\Converter.cs",
               "RelativeToolTip": "..\\InFixToPostFix\\Converter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAArwEkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:10:59.208Z",
+              "WhenOpened": "2024-06-04T14:32:08.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\InFixToPostFix\\Program.cs",
               "RelativeDocumentMoniker": "..\\InFixToPostFix\\Program.cs",
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\InFixToPostFix\\Program.cs",
               "RelativeToolTip": "..\\InFixToPostFix\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:09:49.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EvalPostfix.cs",
-              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\EvaluatePostFix\\EvalPostfix.cs",
-              "RelativeDocumentMoniker": "EvalPostfix.cs",
-              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\EvaluatePostFix\\EvalPostfix.cs",
-              "RelativeToolTip": "EvalPostfix.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T09:44:15.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\EvaluatePostFix\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop10DataStructures\\Stacks\\EvaluatePostFix\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T09:37:39.794Z",
+              "WhenOpened": "2024-06-04T14:32:07.862Z",
               "EditorCaption": ""
             }
           ]

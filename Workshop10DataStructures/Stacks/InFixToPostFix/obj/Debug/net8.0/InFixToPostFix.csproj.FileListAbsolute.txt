@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\bin\Debug\net8.0\InFixToPostFix.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\bin\Debug\net8.0\InFixToPostFix.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\bin\Debug\net8.0\InFixToPostFix.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\bin\Debug\net8.0\InFixToPostFix.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\bin\Debug\net8.0\InFixToPostFix.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\refint\InFixToPostFix.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\InFixToPostFix.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\Stacks\InFixToPostFix\obj\Debug\net8.0\ref\InFixToPostFix.dll

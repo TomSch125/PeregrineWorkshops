@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked", "Linked.csproj", "{DC053E79-D73F-442A-8CFC-AF9CC606529E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "..\LinkedList\LinkedList.csproj", "{9EE7F86F-BE17-4367-8B0C-1A9F9DFCB8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC053E79-D73F-442A-8CFC-AF9CC606529E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC053E79-D73F-442A-8CFC-AF9CC606529E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC053E79-D73F-442A-8CFC-AF9CC606529E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC053E79-D73F-442A-8CFC-AF9CC606529E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE7F86F-BE17-4367-8B0C-1A9F9DFCB8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE7F86F-BE17-4367-8B0C-1A9F9DFCB8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE7F86F-BE17-4367-8B0C-1A9F9DFCB8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE7F86F-BE17-4367-8B0C-1A9F9DFCB8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B511EB9-8063-4164-857B-766B987BFB07}
+	EndGlobalSection
+EndGlobal

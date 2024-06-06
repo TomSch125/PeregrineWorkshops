@@ -1,0 +1,14 @@
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\bin\Debug\net7.0\DFSTreeEdgesProject.exe
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\bin\Debug\net7.0\DFSTreeEdgesProject.deps.json
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\bin\Debug\net7.0\DFSTreeEdgesProject.runtimeconfig.json
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\bin\Debug\net7.0\DFSTreeEdgesProject.dll
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\bin\Debug\net7.0\DFSTreeEdgesProject.pdb
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\DFSTreeEdgesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\DFSTreeEdgesProject.AssemblyInfoInputs.cache
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\DFSTreeEdgesProject.AssemblyInfo.cs
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\DFSTreeEdgesProject.csproj.CoreCompileInputs.cache
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\DFSTreeEdgesProject.dll
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\refint\DFSTreeEdgesProject.dll
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\DFSTreeEdgesProject.pdb
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\DFSTreeEdgesProject.genruntimeconfig.cache
+C:\Users\customer\source\Algorithms\DepthFirstSearch\DFSTreeEdgesProject\obj\Debug\net7.0\ref\DFSTreeEdgesProject.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvaluatePostFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ffa07dd715bac6d68bfe0fd0b303a0aea80bc6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6f78db6e9fe6052514fcf41bc7bab09af0fb6e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvaluatePostFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvaluatePostFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

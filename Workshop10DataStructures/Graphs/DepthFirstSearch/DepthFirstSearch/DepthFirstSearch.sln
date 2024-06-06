@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{37D58AEF-9852-488B-A57C-9C917D44C2F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFSTreeEdgesProject", "DFSTreeEdgesProject\DFSTreeEdgesProject.csproj", "{003E8A1B-FF37-4753-BAC8-31A218A8050B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D58AEF-9852-488B-A57C-9C917D44C2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D58AEF-9852-488B-A57C-9C917D44C2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D58AEF-9852-488B-A57C-9C917D44C2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D58AEF-9852-488B-A57C-9C917D44C2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003E8A1B-FF37-4753-BAC8-31A218A8050B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003E8A1B-FF37-4753-BAC8-31A218A8050B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003E8A1B-FF37-4753-BAC8-31A218A8050B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003E8A1B-FF37-4753-BAC8-31A218A8050B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7D0A289-9902-446F-9F8A-3044C6A86125}
+	EndGlobalSection
+EndGlobal

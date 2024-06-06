@@ -1,0 +1,15 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\bin\Debug\net8.0\Linked.exe
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\bin\Debug\net8.0\Linked.deps.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\bin\Debug\net8.0\Linked.runtimeconfig.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\bin\Debug\net8.0\Linked.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\bin\Debug\net8.0\Linked.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.AssemblyInfoInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.AssemblyInfo.cs
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.sourcelink.json
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\refint\Linked.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\Linked.genruntimeconfig.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\Workshop10DataStructures\LinkedList\Linked\obj\Debug\net8.0\ref\Linked.dll
