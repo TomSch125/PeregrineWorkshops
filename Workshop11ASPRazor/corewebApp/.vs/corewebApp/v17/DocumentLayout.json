@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop11ASPRazor\\corewebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A360C8FF-A58A-42A0-A523-904C5D4090BC}|corewebApp.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop11asprazor\\corewebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A360C8FF-A58A-42A0-A523-904C5D4090BC}|corewebApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A360C8FF-A58A-42A0-A523-904C5D4090BC}|corewebApp.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop11asprazor\\corewebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A360C8FF-A58A-42A0-A523-904C5D4090BC}|corewebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360C8FF-A58A-42A0-A523-904C5D4090BC}|corewebApp.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop11asprazor\\corewebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360C8FF-A58A-42A0-A523-904C5D4090BC}|corewebApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A360C8FF-A58A-42A0-A523-904C5D4090BC}|corewebApp.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop11asprazor\\corewebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,13 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop11ASPRazor\\corewebApp\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop11ASPRazor\\corewebApp\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAANAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T13:26:19.547Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T13:25:21.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:25:21.393Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T13:20:46.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:20:46.76Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T13:20:42.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:20:42.774Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T13:20:41.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:20:41.681Z"
             },
             {
               "$type": "Document",
@@ -134,8 +130,7 @@
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop11ASPRazor\\corewebApp\\Pages\\Index.cshtml.JWhiBYsr225DBNtO.ide.g.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.JWhiBYsr225DBNtO.ide.g.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:19:42.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:19:42.386Z"
             },
             {
               "$type": "Document",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T13:18:35.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:18:35.717Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T13:18:45.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:18:45.749Z"
             },
             {
               "$type": "Document",
@@ -173,12 +166,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:18:06.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:18:06.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop11ASPRazor\\corewebApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T13:25:23.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:25:23.017Z"
             }
           ]
         }

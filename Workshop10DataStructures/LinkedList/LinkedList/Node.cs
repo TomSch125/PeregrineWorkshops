@@ -8,5 +8,13 @@ namespace LinkedList
 {
     internal class Node
     {
+        internal int value;
+        internal Node next;
+
+        internal Node(int value, Node next)
+        {
+            this.value = value;
+            this.next = next;
+        }   
     }
 }
