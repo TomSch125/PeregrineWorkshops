@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop4\\xunitshapetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop4\\xunitshapetest\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop4\\xunitshapetest\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop4\\xunitshapetest\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|solutionrelative:ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop4\\xunitshapetest\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BCBAC5C-A8EF-4A43-8CF0-B7BD522D896A}|XUnitShapeTest.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
@@ -87,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop4\\XUnitShapeTest\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwCAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T09:10:53.844Z",
               "EditorCaption": ""
