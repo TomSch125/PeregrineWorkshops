@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop13mvc\\productapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|c:\\users\\tomschofield\\peregrine\\coding\\peregrineworkshops\\workshop13mvc\\productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2BBC7D-14C4-415A-93A3-6A8DEDC853E4}|ProductApp.csproj|C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\context\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:38:40.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:38:40.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
@@ -71,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
@@ -83,19 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAnwEIAAAAJAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowE8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T10:39:14.889Z"
+              "WhenOpened": "2024-06-10T10:39:14.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\Views\\Web.config",
               "RelativeDocumentMoniker": "Views\\Web.config",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\Workshop13MVC\\ProductApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
