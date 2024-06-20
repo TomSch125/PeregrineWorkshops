@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CollegeEntities-Web.config Connection String" description="CollegeEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/StudentEDM.csdl|res://*/StudentEDM.ssdl|res://*/StudentEDM.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tomsserver.database.windows.net;initial catalog=sampleColegeDatabase;persist security info=True;user id=tom;password=!Password1;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TomSchofield\\peregrine\\Coding\\PeregrineWorkshops\\API\\CRUDWebbAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CollegeEntities']/@connectionString" />
+  </parameter>
+</parameters>

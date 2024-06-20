@@ -1,0 +1,12 @@
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\bin\Debug\CRUDLibrary.dll.config
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\bin\Debug\CRUDLibrary.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\bin\Debug\CRUDLibrary.pdb
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\bin\Debug\EntityFramework.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\bin\Debug\EntityFramework.xml
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\obj\Debug\CRUDLibrary.csproj.AssemblyReference.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\obj\Debug\CRUDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\obj\Debug\CRUDLibr.9A796CF8.Up2Date
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\obj\Debug\CRUDLibrary.dll
+C:\Users\TomSchofield\peregrine\Coding\PeregrineWorkshops\API\CRUDLibrary\obj\Debug\CRUDLibrary.pdb
